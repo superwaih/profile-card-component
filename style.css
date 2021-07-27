@@ -10,7 +10,7 @@
 
 }
 body{
-    background-image: url(/profile-card-component/images/bg-pattern-top.svg);
+    background-image: url(./images/bg-pattern-top.svg);
     background-color: var(--Dark-cyan);
     display: flex;
     flex-wrap: wrap;
